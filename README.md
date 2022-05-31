@@ -1,4 +1,6 @@
 # mkinitfs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmissing64001%2Fmkinitfs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmissing64001%2Fmkinitfs?ref=badge_shield)
+
 
 This is the initramfs generator for Alpine Linux, including support for apk and 
 Alpine Diskless boot.
@@ -26,3 +28,7 @@ For testing, its not necessary to install `mkinitfs` into your root file system.
 ## Tweaking
 
 The Makefile is kept slim and debuggable.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmissing64001%2Fmkinitfs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmissing64001%2Fmkinitfs?ref=badge_large)
